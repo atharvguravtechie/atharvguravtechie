@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Atharv Gurav
 
-## 💻 Computer Science Student | Backend Developer | Lifelong Learner
+## 💻 Computer Science Student | Developer | Lifelong Learner |Programmer
 
 I'm a Computer Science student passionate about development in technology , full-stack web applications, and solving real-world problems through code.I am also passionate about building system level application <br>
 Also love to work for making Internet a Safe Place. 

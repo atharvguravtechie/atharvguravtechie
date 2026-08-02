@@ -1,90 +1,153 @@
-# Hi there 👋, I'm Atharv Gurav
+<div align="center">
 
-## 💻 Computer Science Student | Developer | Lifelong Learner |Programmer
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, I'm Atharv Gurav
 
-I'm a Computer Science student passionate about development in technology , full-stack web applications, and solving real-world problems through code.I am also passionate about building system level application <br>
-Also love to work for making Internet a Safe Place. 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=atharv@github:~$+whoami;Computer+Science+Student;MERN+Stack+Developer;Linux+Enthusiast;Always+Learning+New+Things..." />
 
-Currently focusing on:
-- 🚀 Backend Development
-- 🌐 Full-Stack Web Development
-- 🧠 Data Structures & Algorithms
-- 📚 Computer Science Fundamentals
-- 👨‍💻 Linux Advance tools 
+</div>
 
 ---
 
-## 🚀 Tech Stack
+# 💻 Terminal
 
-### 💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🌱 Currently Learning
-
-- Backend Development
-- REST APIs
-- Authentication & Authorization
-- Database Design
-- Deployment
-- System Design
-
----
-
-## 🎯 Goals
-
-- 🚀 Build production-ready full-stack applications
-- 💼 Start freelancing
-- 📈 Improve problem-solving & DSA
-- 🌍 Contribute to Open Source
-- 🔐 Learn Cybersecurity Fundamentals
+```bash
+┌──────────────────────────────────────────────────────────────┐
+│ atharv@github:~$ whoami                                      │
+│ > Atharv Gurav                                               │
+│                                                              │
+│ atharv@github:~$ education                                   │ 
+│ > Bachelor of Computer Science                               │
+│                                                              │
+│ atharv@github:~$ skills                                      │
+│ > JavaScript                                                 │
+│ > React                                                      │
+│ > Node.js                                                    │
+│ > Express                                                    │
+│ > MongoDB                                                    │
+│ > Python                                                     │
+│ > C#                                                         │
+│ > Git                                                        │
+│ > Linux                                                      │
+│                                                              │
+│ atharv@github:~$ currently_working_on                        │
+│ > TaskFlow                                                   │
+│ > Backend Development                                        │
+│                                                              │
+│                                                              │
+│ atharv@github:~$ goals                                       │
+│ > Build Real World Projects                                  │
+│ > Become Software Engineer                                   │
+│ > Open Source Contributions                                  │
+│                                                              │
+│ atharv@github:~$ echo "Happy Coding!"                        │
+│ > Happy Coding! 🚀                                           │
+│                                                              │
+│ atharv@github:~$ █                                           │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Tech Stack
 
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cs,git,github,vscode,linux,bootstrap,tailwind"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=atharvguravtechie&theme=tokyonight)
-
----
-
-## 📫 Connect with Me
-
-- GitHub: https://github.com/atharvguravtechie
-
-
+</p>
 
 ---
 
-## 💭 Developer Motto
+# 📊 GitHub Stats
 
-> *"Build. Learn. Improve. Repeat. Don't Ever Give Up On Dreams "*
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🚀 TaskFlow | MERN Task Management Application |
+| 💬 Campus Connect | College Communication Platform |
+| 🌐 Portfolio Website | Personal Developer Portfolio |
+| 📚 Backend APIs | REST APIs using Node.js & Express |
+
+---
+
+# 🌱 Currently Learning
+
+```text
+███████████████████░░░░░░░░░  MERN Stack
+████████████████░░░░░░░░░░░░  React
+███████████████░░░░░░░░░░░░░  Node.js
+█████████████████░░░░░░░░░░░ Linux
+██████████████░░░░░░░░░░░░░░ DSA
+████████████████░░░░░░░░░░░░ CAT 2026
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/atharvguravtechie">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/atharv-gurav-tech">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:atharvguravtech@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue"/>
+
+</div>
